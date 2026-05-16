@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deepika-singh-frontenddeveloper.netlify.app/sitemap.xml
